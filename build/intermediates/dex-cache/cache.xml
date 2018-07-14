@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhouw\.android\build-cache\4d7e44ecf644d8b9163dde36d348ce872517edff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\zhouw\Desktop\MusicBox\app\build\intermediates\pre-dexed\debug\classes_1efc6a183cf9d9c63cbd34263e9c12aadc66e5da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhouw\.android\build-cache\5a8e0956ebe5eee028e90f1ed0f05fc20d015a14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\zhouw\Desktop\MusicBox\app\build\intermediates\pre-dexed\debug\classes_47d2cbcd597fd6b74271fb8a0270768ad4d53ebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhouw\.android\build-cache\adb0bec2fb154aaadac21970a3f302b91f57b473\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\zhouw\Desktop\MusicBox\app\build\intermediates\pre-dexed\debug\classes_93f42b1d97cac27d82dd6db899223aa405274741.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhouw\.android\build-cache\02315d7fd95b4407b14217f30c3a4b173334eaa2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\zhouw\Desktop\MusicBox\app\build\intermediates\pre-dexed\debug\classes_884c17605c827c6c80e32b5b049db65dd9e830d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidBook\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\zhouw\Desktop\MusicBox\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_fa861c17c02baaf4541bc8077d7bd3e5b90c5dc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhouw\.android\build-cache\dbc74358a370d95d93d3fa14c043b9ff95aeb5c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\zhouw\Desktop\MusicBox\app\build\intermediates\pre-dexed\debug\classes_1a474de3c5bb1cdd31c1c74a1693200d50dd5c7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhouw\.android\build-cache\b6927c6128dc3eac6fdd002b9904aa8d324af115\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\zhouw\Desktop\MusicBox\app\build\intermediates\pre-dexed\debug\classes_8498fb3dd77a742945c946a321774516b9c5f235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhouw\.android\build-cache\6defcdb0a2072de365ec15ce9dc71f9f51b61839\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\zhouw\Desktop\MusicBox\app\build\intermediates\pre-dexed\debug\classes_5a68d16c2ac2c7453b7fe6967e086281613a259a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhouw\.android\build-cache\c328de7ea8b05deab45cb47ebf825bb85c532ea6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\zhouw\Desktop\MusicBox\app\build\intermediates\pre-dexed\debug\classes_9b58593e7269a09437cd1b6204de2e64c66dd297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhouw\.android\build-cache\1f8dfead2240cef9c1ba3d32b54857d669cbec3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\zhouw\Desktop\MusicBox\app\build\intermediates\pre-dexed\debug\classes_49bc2c5413dd623421099cf151dc320c754cded4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidBook\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\zhouw\Desktop\MusicBox\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_c0019a89621c67a2c607ca8747104e3d3bf5b4ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhouw\.android\build-cache\8ea026c1ce3f1fb99412908889b060c21d1ac1fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\zhouw\Desktop\MusicBox\app\build\intermediates\pre-dexed\debug\classes_dcbb6a1f10cd0a2010f74f53126a68a2dc23f8e3.jar" />
+    </item>
+
+</items>
